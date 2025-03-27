@@ -3,7 +3,7 @@
 ## 💻 About Me:  
 - 🔭 I'm learning **Python** and aiming to master **C, C++, Assembly, Java, and JavaScript**.  
 - 🔒 Interested in Cybersecurity, Artificial Intelligence, and Operating Systems.  
-- 🐧 Linux User (**Fedora**).  
+- 🐧 Linux User (**Fedora btw**).  
 - 🎓 Learning programming from **OctuCode**.  
 
 ## 📫 Contact Me:  
