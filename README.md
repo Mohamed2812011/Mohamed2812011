@@ -7,8 +7,7 @@
 - 🎓 Learning programming from **OctuCode**.  
 
 ## 📫 Contact Me:  
-- 📧 Email: [email@example.com](mailto:email@example.com)  
-- 💬 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+- 📧 Email: rdam14030@gmail.com
 
 ## 🚀 Tools & Technologies:  
 - **Languages:** Python  
