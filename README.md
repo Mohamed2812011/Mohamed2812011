@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Welcome to My Profile  
 
-<!--
-**Mohamed2812011/Mohamed2812011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me:  
+- 🔭 I'm learning **Python** and aiming to master **C, C++, Assembly, Java, and JavaScript**.  
+- 🔒 Interested in Cybersecurity, Artificial Intelligence, and Operating Systems.  
+- 🐧 Linux User (**Fedora**).  
+- 🎓 Learning programming from **OctuCode**.  
 
-Here are some ideas to get you started:
+## 📫 Contact Me:  
+- 📧 Email: [email@example.com](mailto:email@example.com)  
+- 💬 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tools & Technologies:  
+- **Languages:** Python  
+- **Platform:** Linux (Fedora)  
+- **Editors:** VSCodium, Pycharm 
+- **Other Tools:** Git 
+
+## 📊 GitHub Statistics:  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed2812011&show_icons=true&theme=radical)
