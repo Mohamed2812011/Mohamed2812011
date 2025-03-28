@@ -7,7 +7,8 @@
 - 🎓 Learning programming from **OctuCode**.  
 
 ## 📫 Contact Me  
-- 📧 **Email:** rdam14030@gmail.com  
+- 📧 **Email:** rdam14030@gmail.com
+- [Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white) **mohamedmatar0**
 
 ## 🚀 Tools & Technologies  
 - **Languages:** Python  
