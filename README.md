@@ -8,8 +8,7 @@
 
 ## 📫 Contact Me  
 - 📧 **Email:** rdam14030@gmail.com
-- 👾 **Discord:** mohamedmatar0
-
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="20" alt="Discord"> **Discord:** mohamedmatar0 
 ## 🚀 Tools & Technologies  
 - **Languages:** Python  
 - **Platform:** Linux (Fedora)  
