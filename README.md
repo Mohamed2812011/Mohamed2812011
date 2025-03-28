@@ -8,7 +8,7 @@
 
 ## 📫 Contact Me  
 - 📧 **Email:** rdam14030@gmail.com
-- [Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white) **mohamedmatar0**
+- [![discord_ico](https://cdn3.emoji.gg/emojis/9738-discord-ico.png)](https://emoji.gg/emoji/9738-discord-ico) **Discord:** mohamedmatar0
 
 ## 🚀 Tools & Technologies  
 - **Languages:** Python  
