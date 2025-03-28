@@ -8,7 +8,7 @@
 
 ## 📫 Contact Me  
 - 📧 **Email:** rdam14030@gmail.com
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="20" alt="Discord"> **Discord:** mohamedmatar0 
+
 ## 🚀 Tools & Technologies  
 - **Languages:** Python  
 - **Platform:** Linux (Fedora)  
@@ -17,3 +17,5 @@
 
 ## 📊 GitHub Statistics  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed2812011&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed2812011&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed2812011&layout=compact&theme=radical)
