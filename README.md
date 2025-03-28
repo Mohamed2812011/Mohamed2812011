@@ -8,6 +8,7 @@
 
 ## 📫 Contact Me  
 - 📧 **Email:** rdam14030@gmail.com
+- 🟣 **Discord:** mohamedmatar0 
 
 ## 🚀 Tools & Technologies  
 - **Languages:** Python  
